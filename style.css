@@ -1,0 +1,244 @@
+
+.t{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    color: #355B3E;
+    padding-top: 64px;
+}
+.t2{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;color: #58745E;
+    padding-top: 16px;
+}
+.fon{
+    background-color: #fff;
+    padding: 40px 64px;
+    border-top-left-radius: 24px;
+    border-bottom-left-radius: 24px;
+}
+.f1{
+    background-color: #F5DBC4;
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.for{
+    color: #355B3E;
+}
+.for1{
+    padding-left: 140px;
+}
+.hi{
+    color: #355B3E;
+    text-decoration: none;
+    margin-right: 24px;
+}
+.hi1{
+    color: #355B3E;
+    text-decoration: none;
+}
+.hi2,
+.hi3{
+    color: #58745E;
+    text-decoration: none;
+    margin-right: 24px;
+}
+.knopki{
+    padding-top: 16px;
+    padding-bottom: 56px;
+}
+.pole{
+    padding: 12px 105px 12px 15px;
+    outline: none;
+    border-radius: 8px;
+}
+.zog{
+    font-weight: 600px;
+    font-size: 16px;
+}
+.knop{
+    padding: 10px 70px;
+    border-radius: 8px;
+    background: #355B3E;
+    color: #fff;
+}
+.knopk{
+    padding: 10px 60px;
+    border-radius: 8px;
+    color: #355B3E;
+    background: transparent;
+}
+.foto{
+    padding: 154px 123px;
+}
+.probel{
+    display: inline;
+}
+.gh,
+.aaa,
+.hi3{
+    display: none;
+}
+
+
+@media (max-width: 1273px) {
+    .for1{
+        padding-left: 60px;
+    }
+    .pole{
+        padding: 12px 65px;
+    }
+    .knop{
+        padding: 10px 50px;
+    }
+    .knopk{
+        padding: 10px 40px;
+    }
+    .t{
+        font-size: 20px;
+        line-height: 100%;
+        padding-top: 40px;
+    }
+    .t2{
+        font-size: 13px;
+    }
+    .hi,
+    .hi1,
+    .hi2{
+        font-size: 14.5px;
+    }
+    .hi2,
+    .hi{
+        margin-right: 15px;
+    }
+    .foto{
+        padding: 115px 90px;
+    }
+    .knopki{
+        padding-bottom: 35px;
+    }
+    
+
+}
+
+@media (max-width: 1115px){
+    .conteiner{
+        display: block;
+        padding-top: 0px;
+        padding-bottom: 0px;
+
+    }
+    .gh{
+        display: flex;
+        align-items: center;
+        background:#F5DBC4 
+    }
+    .foto1{
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    .f1,
+    .a{
+        display: none;
+    }
+    .fon{
+        text-align: center;
+        border-radius: 0px;
+        padding: 0px 0px;
+    }
+    .aaa{
+        display: flex;
+        justify-content: center;
+        padding-top: 32px;
+        padding-bottom: 32px;
+
+    }
+    .zx{
+        padding-bottom: 42px;
+    }
+
+
+
+    .for1{
+        padding-left: 140px;
+    }
+    .pole{
+        padding: 12px 105px;
+    }
+    .knop{
+        padding: 10px 70px;
+    }
+    .knopk{
+        padding: 10px 60px;
+    }
+    .t{
+        font-size: 25px;
+        line-height: 100%;
+        padding-top: 32px;
+    }
+    .t2{
+        font-size: 16px;
+    }
+    .hi,
+    .hi1,
+    .hi2{
+        font-size: 19px;
+    }
+    .hi2,
+    .hi{
+        margin-right: 15px;
+    }
+    
+}
+@media (max-width: 645px){
+    .cuuu{
+        width: 230px;
+        height: 155px;
+    }
+    .for1{
+        padding-left: 60px;
+    }
+    .pole{
+        padding: 12px 65px;
+    }
+    .knop{
+        padding: 10px 50px;
+    }
+    .knopk{
+        padding: 10px 40px;
+    }
+    .t{
+        font-size: 20px;
+        line-height: 100%;
+        padding-top: 40px;
+    }
+    .t2{
+        font-size: 13px;
+    }
+    .hi3{
+        display: flex;
+        justify-content: center;
+        padding-bottom: 10px;
+        margin-right: 0px;
+    }
+    .hi,
+    .hi1,
+    .hi3{
+        font-size: 17px;
+    }
+    .hi{
+        margin-right: 47px;
+    }
+    .hi2{
+        display: none;
+    }
+}
